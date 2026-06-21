@@ -1,4 +1,4 @@
-# Image_classification
+
 # Image Classification with Limited Labels
 
 ## Project Overview
